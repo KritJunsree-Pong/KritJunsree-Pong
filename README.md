@@ -1,57 +1,48 @@
-- 👋 Hi, I’m @Krit Junsree
-- 👀 I’m interested in Data Analysis, Data Engingeer, Piping Engineer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋, I’m Krit Junsree
 
-- # [DataEngiTH.com](http://dataengith.com/)
-
-Welcome to [**DataEngiTH.com**](http://dataengith.com/), my personal portfolio website! This platform showcases my journey from being a Piping Design Engineer to transitioning into the world of Data Engineering and Data Science.
-
-Here, you will find:
-
-- My portfolio of projects related to Data Analysis and Data Science.
-- Blog posts sharing insights, tutorials, and case studies.
-- Resources and tips for learning Data Engineering and Analysis.
-
----
-
-## Features
-
-- **About Me**: Learn about my background, skills, and current focus.
-- **Portfolio**: Explore my data projects, from Python scripts to visualization dashboards.
-- **Blog**: Read articles on data topics, including analysis techniques, prompt engineering, and personal learning journeys.
-- **Contact**: Connect with me through LinkedIn, Medium, GitHub, or email.
-
----
-
-## Tools & Technologies
-
-This portfolio is built using:
-
-- **HTML/CSS**: For basic structure and styling.
-- **WordPress**: Hosting and managing dynamic content.
-- **Canva**: Designing graphics and visuals.
-
----
-
-## Connect with Me
+👨‍💻 **About Me**:  
+- 🔧 I’m a **Piping Design Engineer** based in Bangkok, Thailand.
+- 🎓 I graduated in **Mechanical Engineering** from Burapha University.
+- 🌱 I’m currently learning **Data Engineering**, **Data Science**, and tools like **Python** and **SQL** to transition into the tech industry.
+  
+💡 **Interested In**:
+- Exploring **data-driven solutions** and **machine learning** applications.
+- Learning about **big data platforms** like AWS, GCP, and Azure.
+- Sharing knowledge through blogs and tutorials.
+  
+🤝 **Collaborate On**:
+- Open-source **data projects**.
+- Writing **data-focused articles**.
+- Building tools for **data visualization** and **analysis**.
+  
+📬 **How to Reach Me**:
 
 If you’re interested in collaborating, exploring my projects, or just connecting, feel free to reach out through the following channels:
 
 - **Website**: [DataEngiTH.com](https://dataengith.com/)
 - **LinkedIn**: [Krit Junsree](https://www.linkedin.com/in/krit-junsree)
-- **Medium**: [My Articles](https://kritjunsree.medium.com/)
+- **Medium**: [My Articles](https://kritjunsree.medium.com)
 - **GitHub**: [My Repositories](https://github.com/KritJunsree-Pong)
 - **Email**: [krit.junsree@gmail.com](mailto:krit.junsree@gmail.com)
+  
+🏳️‍🌈 **Pronouns**: He/Him  
+
+🎉 **Fun Fact**:  I love playing the guitar 🎸 and exploring hiking trails 🏞️. When I’m not working on data projects, you’ll find me experimenting with new coffee recipes ☕.
 
 ---
 
-## Acknowledgments
+## Welcome to DataEngiTH.com 🌐
+**DataEngiTH.com** is my personal portfolio website where I showcase my journey in **Data Engineering** and **Data Science**. Here’s what you can explore:
+- 🗂️ **Portfolio**: A collection of my projects, including data pipelines, dashboards, and analytics.
+- ✍️ **Blog**: Articles on data-related topics, tutorials, and my learning experiences.
+- 🚀 **Learning Resources**: Tools, courses, and guides I found helpful during my learning path.
+- 📢 **Contact**: Links to connect with me for collaborations or discussions.
+  
+Visit the website: [DataEngiTH.com](https://DataEngiTH.com)  
+Thank you for stopping by! Feel free to explore and reach out if you'd like to chat about data, projects, or anything exciting! 😊
 
-Thanks to everyone who has supported me in this journey. Special thanks to the data community and online platforms that make learning accessible for everyone!
+---
+
 
 <!---
 KritJunsree-Pong/KritJunsree-Pong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
